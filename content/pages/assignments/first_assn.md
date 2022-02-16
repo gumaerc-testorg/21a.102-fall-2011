@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f0decf83-1f25-3c32-0cb5-e2e4936fa591
 title: First Written Assignment
 uid: 6c97a5fa-69be-73ea-21af-fc9dbc9ef694
@@ -8,7 +12,7 @@ uid: 6c97a5fa-69be-73ea-21af-fc9dbc9ef694
 
 This assignment is intended to get you thinking more comprehensively about the analytic terms we are using in this course—thinking more like social scientists.
 
-Choose a definition of identity. There are several easily available: Eriksen, Nagel, and Wade discuss it (looking in a book's index is a great time saver). Then compare Gladney's case study with one or two examples of ethnic and/or national identity[1](#1) chosen by you. Keep in mind that both individual identity and collective identity will be involved. You may choose your other case/s from the course reading (e.g., Nagel).
+Choose a definition of identity. There are several easily available: Eriksen, Nagel, and Wade discuss it (looking in a book's index is a great time saver). Then compare Gladney's case study with one or two examples of ethnic and/or national identity[{{< sup "1" >}}](#1) chosen by you. Keep in mind that both individual identity and collective identity will be involved. You may choose your other case/s from the course reading (e.g., Nagel).
 
 First, briefly describe your two or three cases with respect to identity. Then compare them: what are the similarities between the two or three identities? Differences? Then briefly describe one or two historical factors that produced the current situation.
 
@@ -32,4 +36,4 @@ This is a 7-page (or more) assignment, so obviously you cannot provide a compreh
 
 7 or more+ pages
 
-{{< anchor "1" >}}{{< /anchor >}}1 The phrasing is awkward because while some ethnic identities are also national identities, some are not, and vice versa (some national identities are not ethnic identities).
+{{< sup "{{< anchor \"1\" >}}{{< /anchor >}}1" >}} The phrasing is awkward because while some ethnic identities are also national identities, some are not, and vice versa (some national identities are not ethnic identities).

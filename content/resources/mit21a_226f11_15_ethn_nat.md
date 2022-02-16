@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to lecture notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-226-ethnic-and-national-identity-fall-2011/031a2f558caa4016933efecf5145301c_MIT21A_226F11_15_Ethn_nat.pdf
+file: /media/courses/21a-226-ethnic-and-national-identity-fall-2011/031a2f558caa4016933efecf5145301c_MIT21A_226F11_15_Ethn_nat.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MIT21A_226F11_15_Ethn_nat.pdf
 uid: 031a2f55-8caa-4016-933e-fecf5145301c

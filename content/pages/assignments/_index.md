@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: f0decf83-1f25-3c32-0cb5-e2e4936fa591
 ---
@@ -29,7 +32,7 @@ Optional draft due: Ses #20
 Handed back: Ses #22  
 Final draft due: Ses #24
 
-Throughout most of the 20th century ethnic identity and nationalism were seen as diminishing in importance… [Read more]({{< baseurl >}}/pages/assignments/third_assn)
+Throughout most of the 20{{< sup "th" >}} century ethnic identity and nationalism were seen as diminishing in importance… [Read more]({{< baseurl >}}/pages/assignments/third_assn)
 
 For Writing Papers
 ------------------
