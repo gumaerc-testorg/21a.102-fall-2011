@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 210ddfd5-8cb9-2bed-905b-83c07ad2020c
 resourcetype: Document
 title: MIT21A_226F11_10_May_El_R.pdf
 uid: a5953aa4-7741-ff7f-01e3-097052da2430

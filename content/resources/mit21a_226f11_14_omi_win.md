@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 210ddfd5-8cb9-2bed-905b-83c07ad2020c
 resourcetype: Document
 title: MIT21A_226F11_14_Omi_Win.pdf
 uid: 443dd468-bad7-17a8-b021-e8d42e5b13a3

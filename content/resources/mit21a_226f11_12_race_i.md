@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 210ddfd5-8cb9-2bed-905b-83c07ad2020c
 resourcetype: Document
 title: MIT21A_226F11_12_Race_I.pdf
 uid: 2e39021a-09b6-d6f4-afe3-4aab5846944f

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 210ddfd5-8cb9-2bed-905b-83c07ad2020c
 resourcetype: Document
 title: MIT21A_226F11_1_Intro_crs.pdf
 uid: 8e309d8b-8615-0917-c696-5c68f6038395

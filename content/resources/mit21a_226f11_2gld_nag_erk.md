@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 210ddfd5-8cb9-2bed-905b-83c07ad2020c
 resourcetype: Document
 title: MIT21A_226F11_2Gld_Nag_Erk.pdf
 uid: 2e252599-3d63-af6c-4ebd-58d705961e15

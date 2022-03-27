@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f0decf83-1f25-3c32-0cb5-e2e4936fa591
 resourcetype: Document
 title: MIT21A_226F11_rules.pdf
 uid: 9b2cd313-755f-073b-fd7e-fdb76268eb15
