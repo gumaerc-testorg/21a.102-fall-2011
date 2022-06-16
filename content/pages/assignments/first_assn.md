@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: A description of the first written assignment.
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -9,10 +11,9 @@ parent_uid: f0decf83-1f25-3c32-0cb5-e2e4936fa591
 title: First Written Assignment
 uid: 6c97a5fa-69be-73ea-21af-fc9dbc9ef694
 ---
-
 This assignment is intended to get you thinking more comprehensively about the analytic terms we are using in this course—thinking more like social scientists.
 
-Choose a definition of identity. There are several easily available: Eriksen, Nagel, and Wade discuss it (looking in a book's index is a great time saver). Then compare Gladney's case study with one or two examples of ethnic and/or national identity[{{< sup "1" >}}](#1) chosen by you. Keep in mind that both individual identity and collective identity will be involved. You may choose your other case/s from the course reading (e.g., Nagel).
+Choose a definition of identity. There are several easily available: Eriksen, Nagel, and Wade discuss it (looking in a book's index is a great time saver). Then compare Gladney's case study with one or two examples of ethnic and/or national identity{{< sup "1" >}} chosen by you. Keep in mind that both individual identity and collective identity will be involved. You may choose your other case/s from the course reading (e.g., Nagel).
 
 First, briefly describe your two or three cases with respect to identity. Then compare them: what are the similarities between the two or three identities? Differences? Then briefly describe one or two historical factors that produced the current situation.
 
@@ -24,9 +25,9 @@ Depending on the sources you choose, you may also find it useful to discuss how 
 
 Please see the "Rules of Thumb" and "Helpful points for written assignments" under the "General" category at the class site, and take them seriously.
 
-Important: do not write in terms of "shoulds" or "oughts." Think in terms of describing and analyzing what _is_—what exists. If you have opinions, tell the reader about them only in the last paragraph.
+Important: do not write in terms of "shoulds" or "oughts." Think in terms of describing and analyzing what *is*—what exists. If you have opinions, tell the reader about them only in the last paragraph.
 
-You _must_ back up everything you say with evidence. Do not make unsupported assertions. If you are not clear about what this means, even after reading the "Rules of Thumb" and "Helpful Points," then ask me or or Nora Delaney, our Writing Advisor.
+You *must* back up everything you say with evidence. Do not make unsupported assertions. If you are not clear about what this means, even after reading the "Rules of Thumb" and "Helpful Points," then ask me or or Nora Delaney, our Writing Advisor.
 
 A note on sources: scholarly literature on whatever case(s) you choose is easily available. One or two books will provide enough information, or consult with reference librarians about using social science research engines to help you find journal articles. You may include encyclopedia, magazine, and newspaper sources. Some of these will be biased; you may still use them, just provide a brief comment about why you think what the author says is more opinion than fact. All sources must be fully cited; please review the section in the course syllabus on plagiarism.
 
@@ -36,4 +37,4 @@ This is a 7-page (or more) assignment, so obviously you cannot provide a compreh
 
 7 or more+ pages
 
-{{< sup "{{< anchor \"1\" >}}{{< /anchor >}}1" >}} The phrasing is awkward because while some ethnic identities are also national identities, some are not, and vice versa (some national identities are not ethnic identities).
+¹ The phrasing is awkward because while some ethnic identities are also national identities, some are not, and vice versa (some national identities are not ethnic identities).
