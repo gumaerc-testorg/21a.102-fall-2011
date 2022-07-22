@@ -5,6 +5,7 @@ file: /courses/21a-226-ethnic-and-national-identity-fall-2011/bf185ab474ea77005a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT21A_226F11_writing.pdf
 uid: bf185ab4-74ea-7700-5a2f-15efdc70b289
 ---
 This resource contains information regarding assignments.
-

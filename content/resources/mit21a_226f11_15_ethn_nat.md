@@ -5,6 +5,7 @@ file: /courses/21a-226-ethnic-and-national-identity-fall-2011/031a2f558caa401693
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT21A_226F11_15_Ethn_nat.pdf
 uid: 031a2f55-8caa-4016-933e-fecf5145301c
 ---
 This resource contains information related to lecture notes.
-
