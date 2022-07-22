@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course,
+  lecture notes, and study questions.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 210ddfd5-8cb9-2bed-905b-83c07ad2020c
 ---
@@ -31,7 +36,7 @@ STUDY QUESTIONS
 Introduction to the Study of Ethnic and National Identity: The Stakes, and Why the Stakes Are So High
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_1_intro_crs))
+({{% resource_link 8e309d8b-8615-0917-c696-5c68f6038395 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -46,10 +51,10 @@ Introduction to the Study of Ethnic and National Identity: The Stakes, and Why t
 Ethnic Identity I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_2_ethn_id_i))
+({{% resource_link bee9d642-cc97-f8f8-890c-a9929578cb1e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_2gld_nag_erk))
+({{% resource_link 2e252599-3d63-af6c-4ebd-58d705961e15 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,10 +66,10 @@ Ethnic Identity I
 Ethnic Identity II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_3_ethn_id_ii))
+({{% resource_link b28a715b-949e-12d6-5507-2a8cfc5882a1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_3_gld_nag))
+({{% resource_link 95274aef-3b4a-f8d3-1fc4-85b7163602a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,10 +81,10 @@ Ethnic Identity II
 Ethnic Identity III: The Hui
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_4_ethn_id))
+({{% resource_link afb22e96-a26b-505e-f7ef-c325dfa35849 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_4_gld))
+({{% resource_link 895875c6-4ce3-fa99-e61e-dcf21847d0b7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,10 +96,10 @@ Ethnic Identity III: The Hui
 Nation and Nationalism I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_5_nat_n_nat))
+({{% resource_link 27d63731-882f-1eac-153a-2a1fecb8cdbd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_5_gld))
+({{% resource_link f6aafb93-74a1-ad22-15b5-cab3bd60f557 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,10 +111,10 @@ Nation and Nationalism I
 Nation and Nationalism II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_5_nat_n_nat))
+({{% resource_link 27d63731-882f-1eac-153a-2a1fecb8cdbd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_6_erik_har))
+({{% resource_link e7f4ce57-42dc-02db-5a6d-6001d910515f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,10 +126,10 @@ Nation and Nationalism II
 Ethnicity, state, Nation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_7_ethn_may))
+({{% resource_link c4a66d7e-fb6d-0620-6088-35d7f29f5c99 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_7_erik_may))
+({{% resource_link 2bc2d5b8-bafb-6ffd-c615-1d48d86d977e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,10 +141,10 @@ Ethnicity, state, Nation
 State, Nation, Culture
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_9_cul_def))
+({{% resource_link fe47194d-f1d0-e7bc-3050-09d4fd170fd1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_8_sch_may))
+({{% resource_link a51be539-6f64-3737-8acc-995538d47552 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,10 +156,10 @@ State, Nation, Culture
 Culture: Definitions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_9_cul_def))
+({{% resource_link fe47194d-f1d0-e7bc-3050-09d4fd170fd1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_9_erik_nag))
+({{% resource_link 14173945-9484-0bd1-1b05-f0c7cecb2736 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +174,7 @@ Ethnic Conflict I
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_10_may_el_r))
+({{% resource_link a5953aa4-7741-ff7f-01e3-097052da2430 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +189,7 @@ Ethnic Conflict II
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_11_el_mal))
+({{% resource_link 601d6584-bb12-0a9e-8b1b-c3e762fba1a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,10 +201,10 @@ Ethnic Conflict II
 Race I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_12_race_i))
+({{% resource_link 2e39021a-09b6-d6f4-afe3-4aab5846944f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_12_wade))
+({{% resource_link 60f22d0c-1fa5-7916-a8f3-5db1e0a7ec62 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,10 +216,10 @@ Race I
 Race II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_13_race_ii))
+({{% resource_link 3df27174-1afa-a563-344d-6523a1d8b2eb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_13_wade))
+({{% resource_link 30986384-2a88-2f0f-fe49-6356b7869133 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +234,7 @@ Race III
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_14_omi_win))
+({{% resource_link 443dd468-bad7-17a8-b021-e8d42e5b13a3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,10 +246,10 @@ Race III
 Ethnic Identity, Nationalism and Gender
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_15_ethn_nat))
+({{% resource_link 031a2f55-8caa-4016-933e-fecf5145301c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_15_de_la_cad))
+({{% resource_link 36edf709-4f22-7a7d-53f0-8d61abea2f5f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +264,7 @@ Ethnic Identity, State, and Sexuality
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_16_nag_dev))
+({{% resource_link b0b396e1-e8ec-bcab-b023-c6385c791477 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,10 +276,10 @@ Ethnic Identity, State, and Sexuality
 Religion, Ethnicity, the Nation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_17_rel_nat))
+({{% resource_link 3dabf715-737c-9a96-606a-8f17ec2838ee "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_17_ong_ark))
+({{% resource_link e1b58ad1-0e64-46a2-b61c-92f232e7a9ec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -286,10 +291,10 @@ Religion, Ethnicity, the Nation
 Language and Culture, Ethnicity, Race
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_18_lang_ethn))
+({{% resource_link 8dec440c-b9fb-ebef-597f-33a0dac345b3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_18_sta_hill))
+({{% resource_link b3ad575d-760d-66bc-1443-35d842ce630f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -304,7 +309,7 @@ Culture Recovery
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_19_nag))
+({{% resource_link 5dda7d85-6181-a08a-3040-eb6126122d6a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -334,7 +339,7 @@ Human Rights, Collective Rights
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_21_mes_nag))
+({{% resource_link c1f5d527-7e45-28f1-b86e-6e0cabcb2c7b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -349,7 +354,7 @@ New Social Movements
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_22_war_jack))
+({{% resource_link 7588ff26-dfe6-0a72-9128-1ff10f0627e9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -361,10 +366,10 @@ New Social Movements
 Transnationalism, Globalization and Culture
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_23_trans_glo))
+({{% resource_link 8d75e7d2-ef22-8bfb-4abf-2c75d4d3b754 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_23_ver_erik))
+({{% resource_link cf1ffcb3-e511-7f35-a02c-9a02667c48db "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -379,7 +384,7 @@ The State: Hegemony and Push-back
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21a_226f11_24_abu_el))
+({{% resource_link 99ed668f-1f5b-8f9b-f401-b303d024cd4e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

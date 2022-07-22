@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: A description of the second written assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f0decf83-1f25-3c32-0cb5-e2e4936fa591
 title: Second Written Assignment
 uid: 3018bb5e-3307-2c9d-0adf-7a3a3369ebf2

@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: A description of the third written assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f0decf83-1f25-3c32-0cb5-e2e4936fa591
 title: Third Written Assignment
 uid: 9bafa127-2581-1367-9723-8d5d52350997
 ---
 
-Throughout most of the 20th century ethnic identity and nationalism were seen as diminishing in importance, a consequence of globalization (e.g. multinational corporations' labor strategies), transnational forces (e.g., labor migration, refugees), the end of colonialism, the strengthening of the nation-state, the increase in democracy and importance of citizenship, the development of supra-state institutions (the U.N., the European Union), and the spread of modernity throughout the world.
+Throughout most of the 20{{< sup "th" >}} century ethnic identity and nationalism were seen as diminishing in importance, a consequence of globalization (e.g. multinational corporations' labor strategies), transnational forces (e.g., labor migration, refugees), the end of colonialism, the strengthening of the nation-state, the increase in democracy and importance of citizenship, the development of supra-state institutions (the U.N., the European Union), and the spread of modernity throughout the world.
 
 Clearly, this prediction was wrong. This assignment asks you to explore the reasons why.
 
