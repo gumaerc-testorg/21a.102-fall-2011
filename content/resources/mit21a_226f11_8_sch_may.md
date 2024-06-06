@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture notes.
 file: /courses/21a-226-ethnic-and-national-identity-fall-2011/a51be5396f6437378acc995538d47552_MIT21A_226F11_8_Sch_May.pdf
+file_size: 530144
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
