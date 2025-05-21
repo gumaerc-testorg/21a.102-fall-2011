@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to lecture notes.
-file: /ol-ocw-studio-app/courses/21a-226-ethnic-and-national-identity-fall-2011/2bc2d5b8bafb6ffdc6151d48d86d977e_MIT21A_226F11_7_Erik_May.pdf
+file: /courses/21a-226-ethnic-and-national-identity-fall-2011/2bc2d5b8bafb6ffdc6151d48d86d977e_MIT21A_226F11_7_Erik_May.pdf
 file_size: 125479
 file_type: application/pdf
 learning_resource_types:

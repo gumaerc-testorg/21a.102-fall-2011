@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding assignments.
-file: /ol-ocw-studio-app/courses/21a-226-ethnic-and-national-identity-fall-2011/9b2cd313755f073bfd7efdb76268eb15_MIT21A_226F11_rules.pdf
+file: /courses/21a-226-ethnic-and-national-identity-fall-2011/9b2cd313755f073bfd7efdb76268eb15_MIT21A_226F11_rules.pdf
 file_size: 571244
 file_type: application/pdf
 learning_resource_types:
