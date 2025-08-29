@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture notes.
-file: /courses/21a-226-ethnic-and-national-identity-fall-2011/27d63731882f1eac153a2a1fecb8cdbd_MIT21A_226F11_5_Nat_n_Nat.pdf
+file: /ol-ocw-studio-app/courses/21a-226-ethnic-and-national-identity-fall-2011/27d63731882f1eac153a2a1fecb8cdbd_MIT21A_226F11_5_Nat_n_Nat.pdf
 file_size: 187677
 file_type: application/pdf
 learning_resource_types:
